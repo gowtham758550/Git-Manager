@@ -22,3 +22,5 @@ For the moment being, if you update a repository the old - unupdated - version w
 ## ✍️ Authors <a name = "authors"></a>
 - [@gowtham758550](https://github.com/gowtham758550)  - Idea & Initial work.
 For aditional information, please refer to [Linkedin](https://www.linkedin.com/in/gowtham-s-516433182) and [HackerRank](https://www.hackerrank.com/gowtham758550)
+
+If you'd like to view this projects contributors, please refer to [contributions](https://github.com/gowtham758550/Git-Manager/pulse)
