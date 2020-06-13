@@ -9,7 +9,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-With this program you can clone, list, delete and update repositories in a quick and easy manner. Many people who use Git feel the need to update their repositories frequently, and Git-Manager aims to make that process as quick and easy as possible with few lines of code. The main feature of this program is that one can update their cloned repositories. 
+With this program you can clone, list, delete and update repositories in a quick and easy manner. Many people who use Git feel the need to update their repositories frequently, and Git-Manager aims to make that process as quick and easy as possible with a few lines of code. The main feature of this program is that one can update their cloned repositories. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
