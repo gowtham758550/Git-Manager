@@ -1,4 +1,10 @@
-# Git-Manager
+<h3 align="center">Git-Manager</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+</p>
+<br>
+<p align="center">A simple tool to make Git less tiresome!</p>
+
 Uses simple python program it manage cloned repo's
 
 You can clone, list, delete and update repos using this
