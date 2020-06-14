@@ -5,7 +5,17 @@
 <br>
 <p align="center">A simple tool to make Git less tiresome!</p>
 
+<h2>Requirements</h2>
+<p>Python</p>
+
+<h2>Installation</h2>
+<p>Step1: Clone the repository 'git clone https://github.com/gowtham758550/Git-Manager.git'</p>
+<p>Step2: Execute setup file by 'python setup.py'</p>
+<p>Step3: Now you can use this tool by just typing 'git-manager' in the terminal if the setup file executed successfully.</p>
+  
+
 ![](https://github.com/Seanmusse/Git-Manager/blob/master/installexample.gif)
+
 
 
 ## 🧐 About <a name = "about"></a>
@@ -28,6 +38,9 @@ into the terminal, entering the newly cloned directory with
 
 Pull request and issues are always welcome here if you
 got any bugs in this program.
+
+This setup file idea is given by [Seanmusse](https://www.github.com/seanmusse)
+And with the help of [Raagul26](https://www.github.com/raagul26) i add this feature.
 
 
 Find me in [Linkedin](https://www.linkedin.com/in/gowtham-s-516433182) and [HackerRank](https://www.hackerrank.com/gowtham758550)
