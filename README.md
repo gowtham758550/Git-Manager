@@ -5,23 +5,26 @@
 <br>
 <p align="center">A simple tool to make Git less tiresome!</p>
 
-Uses simple python program it manage cloned repo's
-
-You can clone, list, delete and update repos using this
-simple tool.
-
-Many of the git users need to update their repos in 
-their local machine but nobody find a way for that.
-So, I just write a few lines of code to update the
-cloned repo's.
-
-The main feature of this Git Manager is we can update 
-our cloned repo's.
+![](https://github.com/Seanmusse/Git-Manager/blob/master/installexample.gif)
 
 
-note : While you update the repo the previous version 
-will not deleted if you not clone that repo using this 
-tool.
+## 🧐 About <a name = "about"></a>
+
+With this program you can clone, list, delete and update 
+repositories in a quick and easy manner. Many people who use Git 
+feel the need to update their repositories frequently, and 
+Git-Manager aims to make that process as quick and easy as 
+possible with a few lines of code. The main feature of this 
+program is that one can update their cloned repositories. 
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
+To get this program up and running, simply clone this repository 
+by typing 
+`git clone https://github.com/gowtham758550/Git-Manager.git` 
+into the terminal, entering the newly cloned directory with 
+`cd Git-Manager` and executing the main file with 
+`python3 main.py`.  
 
 Pull request and issues are always welcome here if you
 got any bugs in this program.
