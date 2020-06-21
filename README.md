@@ -5,8 +5,8 @@
 <br>
 <p align="center">A simple tool to make Git less tiresome!</p>
 
-<h2>Requirements</h2>
-<p>Python</p>
+## ***Requirements***
+* Python
 
 ## ***Installation***
 * Step1: Clone the repository 
@@ -27,28 +27,29 @@ in the terminal if the setup file executed successfully.
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-105947~2.png)
 
 
-## 🧐 About <a name = "about"></a>
+## ***How it works?***
 
-With this program you can clone, list, delete and update 
+With this program you can 
+* Clone
+![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110634~2.png)
+* List
+![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110736~2.png)
+* Delete
+![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110806~2.png)
+* Update 
+![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110712~2.png)
 repositories in a quick and easy manner. Many people who use Git 
 feel the need to update their repositories frequently, and 
 Git-Manager aims to make that process as quick and easy as 
 possible with a few lines of code. The main feature of this 
 program is that one can update their cloned repositories. 
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-To get this program up and running, simply clone this repository 
-by typing 
-`git clone https://github.com/gowtham758550/Git-Manager.git` 
-into the terminal, entering the newly cloned directory with 
-`cd Git-Manager` and executing the main file with 
-`python3 main.py`.  
-
-Pull request and issues are always welcome here if you
+## ***welcome***
+* Pull request and issues are always welcome here if you
 got any bugs in this program.
 
-This setup file idea is given by [Seanmusse](https://www.github.com/seanmusse)
+## ***Credits***
+* This setup file idea is given by [Seanmusse](https://www.github.com/seanmusse)
 And with the help of [Raagul26](https://www.github.com/raagul26) i add this feature.
 
 
