@@ -22,7 +22,8 @@ $ python setup.py
 ```
 $ git-manager
 ```
- in the terminal if the setup file executed successfully.
+in the terminal if the setup file executed successfully.
+![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-105840~2.png)
   
 
 ![](https://github.com/Seanmusse/Git-Manager/blob/master/installexample.gif)
