@@ -17,6 +17,7 @@ $ git clone https://github.com/gowtham758550/Git-Manager.git
 ```
 $ python setup.py
 ```
+![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-104529~2.png)
 * Step3: Now you can use this tool by just typing 
 ```
 $ git-manager
