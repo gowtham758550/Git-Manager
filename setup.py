@@ -1,7 +1,7 @@
 import os
 
 cwd = os.getcwd() 
-alias="\nalias git-manager='python {}/git_manager.py'".format(cwd)
+alias="\nalias git-manager='python {}/main.py'".format(cwd)
 
 home = os.path.expanduser("~")
 
