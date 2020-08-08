@@ -32,7 +32,7 @@ def install(url):
 	try:
 		system("git clone " + url)
 		print("Repo installed successfully")
-		with open(file1, "w") as f1:
+		with open(file1, "a") as f1:
 			f1.write("\n" + url.lower())
 		f1.close()
 	except Exception as a:
