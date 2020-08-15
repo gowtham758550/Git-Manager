@@ -72,9 +72,9 @@ def delete(repo):
 def list():
 	try:
 		with open(file1, "r") as f:
-		      p=f.read()
-                      print(p)
-                      if len(p)>0:
+			p=f.read()
+			print(p)
+			if len(p)>0:
                          return 1
 
 		f.close()
