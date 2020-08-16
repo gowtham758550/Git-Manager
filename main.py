@@ -1,5 +1,5 @@
 from os import path, system, remove
-from urllib.request import urlopen
+import urllib
 from shutil import rmtree
 
 home = path.expanduser("~")
@@ -7,7 +7,7 @@ file1 = home + "/.git_meta1"
 
 def connection(url):
 	try:
-		urlopen(url)
+		urllib.request.urlopen(url)
 		return True
 	except:
 		return False
