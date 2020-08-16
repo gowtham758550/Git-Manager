@@ -72,7 +72,11 @@ def delete(repo):
 def list():
 	try:
 		with open(file1, "r") as f:
-			print(f.read())
+                      p=f.read()
+                      print(p)
+                      if len(p.strip())>0:
+                         return 1
+                        
 		f.close()
 	except Exception as a:
 		print(a)
@@ -122,8 +126,8 @@ def main():
 			pause()
 			
 		elif choice == "4":
-			list()
-			print("\nNOTE : If nothing displayed, there is no repo installed using git-manager")
+			if list()!=1:
+			  print("\nNOTE : If nothing displayed, there is no repo installed using git-manager")
 			pause()
 			
 		elif choice == "5":
