@@ -1,5 +1,11 @@
 import os
+import platform
 
+if platform.system().lower()=='windows':
+	print('Setup Doesnot Support Windows . \nPlease run " py main.py" at command prompt or powershell to run Git-manager...')
+	x=input('\nPress any key to continue...')
+	exit(0)
+	
 cwd = os.getcwd() 
 alias="\nalias git-manager='python {}/main.py'".format(cwd)
 
