@@ -25,7 +25,7 @@ def clear():
 	system("clear")
 
 def pause():
-	input("\n\nPress enter to continue...")
+	x=input("\n\nPress enter to continue...")
 	clear()
 		
 def install(url):
