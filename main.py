@@ -1,5 +1,5 @@
 from os import path, system, remove
-import urllib
+import urllib.request
 from shutil import rmtree
 
 home = path.expanduser("~")
