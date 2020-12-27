@@ -1,6 +1,6 @@
 <h3 align="center">Git-Manager</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+  <img src="https://img.shields.io/badge/license-GNU GPL V3.0-blue.svg">
 </p>
 <br>
 <p align="center">A simple tool to make Git less tiresome!</p>
