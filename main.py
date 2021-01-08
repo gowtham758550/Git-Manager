@@ -336,7 +336,7 @@ Buy me a coffee : https://www.buymeacoffee.com/gowtham758550
 
 
 if __name__ == "__main__":
-	#try:
+	try:
 		main()
-	#except Exception as a:
-		#print(f"{a}\nPlease make issue about the error you facing at https://github.com/gowtham758550/Git-Manager/issues")
+	except Exception as a:
+		print(f"{a}\nPlease make issue about the error you facing at https://github.com/gowtham758550/Git-Manager/issues")
