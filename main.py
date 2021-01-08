@@ -51,8 +51,7 @@ def writecsv(values):
 	"""Write the data into the git-manager.csv file"""
 	with open(file1, "a") as csvfile:
 		csvobj = writer(csvfile)
-		for i in values:
-			csvobj.writerow(i)
+		csvobj.writerows(values)
 
 def updatecsv(name):
 	rows = readcsv()
