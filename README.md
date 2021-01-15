@@ -6,7 +6,7 @@
 <p align="center">A simple tool to make Git less tiresome!</p>
 
 ## ***Requirements***
-* Python
+* Python 3.x
 
 ## ***Installation***
 * Step1: Clone the repository 
@@ -15,14 +15,10 @@ $ git clone https://github.com/gowtham758550/Git-Manager.git
 ```
 * Step2: Execute setup file by 
 ```
-$ python setup.py
+$ python3 setup.py
 ```
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-104529~2.png)
-* Step3: Now you can use this tool by just typing 
-```
-$ git-manager
-```
-in the terminal if the setup file executed successfully.
+* Step3: Now you can use this tool by just typing `git-manager` in the terminal. 
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-105840~2.png)
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-105947~2.png)
 
@@ -30,32 +26,30 @@ in the terminal if the setup file executed successfully.
 ## ***How it works?***
 
 With this program you can 
-* Clone
+### Clone
+* Clone repository with repo url. 
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110634~2.png)
-* List
+### List
+* List all the repo's you cloned. 
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110736~2.png)
-* Delete
+### Delete
+* Delete the repo you want. 
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110806~2.png)
-* Update 
+### Update
+* Update the available repo's. 
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110712~2.png)
-repositories in a quick and easy manner. Many people who use Git 
-feel the need to update their repositories frequently, and 
-Git-Manager aims to make that process as quick and easy as 
-possible with a few lines of code. The main feature of this 
-program is that one can update their cloned repositories. 
+### Scan
+* Scan for cloned repo's available in your storage. 
 
 ## ***welcome***
 * Pull request and issues are always welcome here if you
 got any bugs in this program.
 
-## ***Credits***
-* This setup file idea is given by [Seanmusse](https://www.github.com/seanmusse)
-And with the help of [Raagul26](https://www.github.com/raagul26) i add this feature.
-
-
-## ***Find me***
-* [Linkedin](https://www.linkedin.com/in/gowtham-s-516433182) 
-* [HackerRank](https://www.hackerrank.com/gowtham758550)
+## ***Contributors***
+* [Gowtham](https://github.com/gowtham758550) 
+* [Anish](https://github.com/anish-m-code)
+* [Seanmusse](https://github.com/seanmusse) 
+* [Raagul](https://github.com/Raagul26) 
 
 ## Support me with some 💸
 * [Buy me a coffee](https://www.buymeacoffee.com/gowtham758550) 
