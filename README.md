@@ -23,6 +23,7 @@ $ python3 setup.py
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-105840~2.png)
 
 * Step4: Now select tha appropriate option from terminal.
+
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-105947~2.png)
 
 
@@ -31,10 +32,14 @@ $ python3 setup.py
 With this program you can 
 ### Clone
 * Clone repository with repo url. 
+
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110634~2.png)
+
 ### List
 * List all the repo's you cloned. 
+
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110736~2.png)
+
 ### Delete
 * Delete the repo you want. 
 
@@ -42,7 +47,9 @@ With this program you can
 
 ### Update
 * Update the available repo's. 
+
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110712~2.png)
+
 ### Scan
 * Scan for cloned repo's available in your storage. 
 
