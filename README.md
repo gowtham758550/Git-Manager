@@ -53,6 +53,8 @@ With this program you can
 ### Scan
 * Scan for cloned repo's available in your storage. 
 
+![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/scan.png)
+
 ## ***welcome***
 * Pull request and issues are always welcome here if you
 got any bugs in this program.
