@@ -19,7 +19,10 @@ $ python3 setup.py
 ```
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-104529~2.png)
 * Step3: Now you can use this tool by just typing `git-manager` in the terminal. 
+
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-105840~2.png)
+
+* Step4: Now select tha appropriate option from terminal.
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-105947~2.png)
 
 
@@ -34,7 +37,9 @@ With this program you can
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110736~2.png)
 ### Delete
 * Delete the repo you want. 
+
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110806~2.png)
+
 ### Update
 * Update the available repo's. 
 ![](https://github.com/gowtham758550/Git-Manager/blob/master/Screenshots/Screenshot_20200621-110712~2.png)
