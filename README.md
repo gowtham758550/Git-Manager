@@ -18,7 +18,7 @@ $ git clone https://github.com/gowtham758550/Qgit.git
 $ python3 setup.py
 ```
 ![](https://github.com/gowtham758550/Qgit/blob/master/Screenshots/Screenshot_20200621-104529~2.png)
-* Step3: Now you can use this tool by just typing `Qgit` in the terminal. 
+* Step3: Now you can use this tool by just typing `qgit` in the terminal. 
 
 ![](https://github.com/gowtham758550/Qgit/blob/master/Screenshots/Screenshot_20200621-105840~2.png)
 
