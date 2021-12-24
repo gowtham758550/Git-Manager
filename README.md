@@ -65,6 +65,4 @@ got any bugs in this program.
 * [Seanmusse](https://github.com/seanmusse) 
 * [Raagul](https://github.com/Raagul26) 
 
-## Support me with some 💸
-* [Buy me a coffee](https://www.buymeacoffee.com/gowtham758550) 
 
